@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Cognizant Technology       Solutions](https://www.cognizant.com/) 
 - 🌱 I’m currently learning     Python Django 
 - 👯 I’m looking to collaborate on JavaScript Projects 
-- 💬    Ask me about Digital Technologies 
+- 💬    Ask me about Web Technologies 
 - 📫 How to reach me: -   *[https://souvikdatta.netlify.app](https://souvikdatta.netlify.app/)*
 
  
